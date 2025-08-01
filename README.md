@@ -2,7 +2,7 @@
 
 👋 Hello, World! I'm Sakshyam Shrestha.  
 🚀 Frontend Fanatic: Turning caffeine into MERN apps and the occasional bug.  
-🧠 Extra Skills: Fluent in Python with C++ and Java for object-oriented wizardry.  
+🧠 Extra Skills: Fluent in React with Tailwind.  
 🤓 Always Learning: Because tech updates faster than my coffee brews.  
 🎨 Pixel Perfectionist: Making the web look good enough to screenshot.  
 🌍 Multilingual Nerd: Fluent in English, Nepali, and Hindi, code-switching like a pro.  
